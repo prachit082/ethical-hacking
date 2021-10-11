@@ -1,5 +1,5 @@
 # Ethical-Hacking
-Info For Beginners→
+ For Beginners→
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPU2H8PeFiW_k0zilylSW3dkxVeZ30Bd9jrQ&usqp=CAU)
 
 ## Introduction✓✓
@@ -91,3 +91,5 @@ In the present scenario, a fresher Ethical Hacker can expect to get Rs 4.8 lakh 
 In conclusion, ethical hacking is not a criminal activity and should not be considered as such. 
 While it is true that malicious hacking is a computer crime and criminal activity, ethical hacking is never a crime. 
 Ethical hacking is in line with industry regulation and organizational IT policies.
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo5esUSwk1yWCXAS2KwMBD_UrIdVa2V45s2A&usqp=CAU)
